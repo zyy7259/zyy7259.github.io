@@ -1,4 +1,3 @@
 # zyy7259.github.io
-zyy7259
 
-foo
+http://zyy7259.github.io/
